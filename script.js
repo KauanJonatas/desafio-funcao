@@ -33,7 +33,7 @@ amvMaker("Your Name", "Dimonds Rihanna")
 //5 - crie uma função que retorne o triplo do número recebido no parâmetro da função
 
 function cubingNumber(number) {
-    return Math.pow(number, 3)
+    return number * 3
 }
 
 // console.log(cubingNumber(2)) < Test
